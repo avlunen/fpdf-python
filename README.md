@@ -1,4 +1,4 @@
-# fpdf-python
+# fpdf-python-table-example
 Some examples for FPDF, Python version. Some have been ported from the PHP version for FPDF.
 
 Files:
